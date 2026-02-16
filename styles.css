@@ -59,14 +59,12 @@ body {
         font-family: 'Press Start 2P', cursive;
         font-size: 1.2rem;
         margin-top: 15%;
-        margin-bottom: 15%;
+        margin-bottom: 100px;
         color: #FEF2BF;
       }
 
       .container {
         display: flex;
-        flex-direction: column;
-        width: 80%;
         justify-content: space-around;
         align-content: center;
       }
